@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cn0u3lyuplcye"
+path="res://.godot/imported/Untitled song (Nov 14%2C 2026 12%3A27 PM).mp3-54ac22aa36e5e5590b746ffe23025f6a.mp3str"
+
+[deps]
+
+source_file="res://pixilart-frames (6)/Untitled song (Nov 14%2C 2026 12%3A27 PM).mp3"
+dest_files=["res://.godot/imported/Untitled song (Nov 14%2C 2026 12%3A27 PM).mp3-54ac22aa36e5e5590b746ffe23025f6a.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
